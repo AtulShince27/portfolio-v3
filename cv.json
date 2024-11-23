@@ -1,106 +1,136 @@
 {
   "basics": {
-    "name": "John Doe",
+    "name": "K Atul Shince",
     "label": "Junior Full Stack Developer",
     "image": "/me_avatar.jpg",
-    "email": "john.doe@example.com",
-    "phone": "+1 555-555-5555",
-    "url": "https://johndoe.dev",
+    "email": "atulk.shince@gmail.com",
+    "phone": "+91 7337472945",
+    "url": "https://atulshince27.github.io/my-portfolio/",
     "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
     "theme": "default",
     "location": {
       "address": "",
-      "postalCode": "10001",
-      "city": "Auckland",
-      "countryCode": "NZ",
-      "region": "New Zealand"
+      "postalCode": "500085",
+      "city": "Hyderabad",
+      "countryCode": "IN",
+      "region": "India"
     },
     "profiles": [
       {
         "network": "LinkedIn",
-        "username": "john-doe",
-        "url": "https://linkedin.com/in/john-doe"
+        "username": "atul-shince-440a7b189",
+        "url": "https://www.linkedin.com/in/atul-shince-440a7b189/"
       },
       {
         "network": "X",
-        "username": "john-doe",
-        "url": "https://x.com/john-doe"
+        "username": "AtulShince",
+        "url": "https://x.com/AtulShince"
       },
       {
         "network": "GitHub",
-        "username": "johndoe",
-        "url": "https://github.com/johndoe"
+        "username": "AtulShince27",
+        "url": "https://github.com/AtulShince27"
       }
     ]
   },
   "work": [
     {
-      "name": "Tech Startup",
-      "position": "Junior Web Developer",
-      "location_type": "On site",
-      "location": "Auckland, New Zealand",
-      "url": "https://techstartup.com",
-      "startDate": "2024-01-01",
-      "endDate": null,
-      "summary": "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs.",
-      "highlights": [
-        "Improved website performance by optimizing code"
-      ],
-      "responsibilities": [
-        "Collaborated with senior developers to design and implement web applications using modern JavaScript frameworks.",
-        "Assisted in debugging and optimizing front-end code to ensure smooth user experiences.",
-        "Participated in code reviews and contributed to improving coding standards within the team."
-      ],
-      "achievements": [
-        "Developing and maintaining web applications using JavaScript, HTML, and CSS. Collaborating with the team to implement new features and fix bugs."
-      ],
-      "skills": [
-        "React",
-        "Tailwind",
-        "GitHub"
-      ]
-    },
-    {
-      "name": "Innovative Solutions",
-      "position": "Junior Software Developer",
-      "location_type": "Hybrid",
-      "location": "Wellington, New Zealand",
-      "url": "https://innovativesolutions.com",
-      "startDate": "2022-06-01",
-      "endDate": "2023-06-01",
-      "summary": "Assisting in the development and maintenance of software applications using Python and Django. Collaborating with cross-functional teams to ensure quality and timely delivery of software solutions.",
-      "highlights": [
-        "Contributed to a major project that streamlined internal workflows, improving efficiency by 30%"
-      ],
-      "responsibilities": [
-        "Developed and maintained backend services using Python and Django.",
-        "Worked closely with front-end developers to integrate user-facing elements with server-side logic.",
-        "Participated in daily stand-ups and bi-weekly sprint planning meetings to ensure alignment with project goals."
-      ],
-      "achievements": [
-        "Successfully implemented a feature that enhanced user authentication, improving security measures."
-      ],
-      "skills": [
-        "Python",
-        "Django",
-        "SQL",
-        "Git"
-      ]
-    },
-    {
-      "name": "Web Agency",
-      "position": "Intern Web Developer",
+      "name": "Retrac GmbH",
+      "position": "Full Stack Developer Intern",
       "location_type": "Remote",
-      "location": "Sydney, Australia",
-      "startDate": "2022-06-01",
-      "endDate": "2022-12-01",
-      "summary": "Assisted in developing client websites and applications. Gained hands-on experience with front-end and back-end technologies.",
+      "location": "Berlin, Germany",
+      "url": "https://www.heyresi.com/",
+      "startDate": "2024-07-01",
+      "endDate": null,
+      "summary": "Enhancing the UI of critical dashboard tools and contributing to the development of reusable, scalable components.",
       "highlights": [
-        "Completed several client projects successfully"
+        "Transformed the UI of a critical dashboard tool using NextJS and MaterialUI, improving UI consistency by 25%.",
+        "Developed custom components such as breadcrumbs, contracts, and sidebars to improve functionality and navigation."
+      ],
+      "responsibilities": [
+        "Redesigned dashboard components for a standardized user experience.",
+        "Collaborated with team members to implement features and address UI inconsistencies.",
+        "Contributed over 22 pull requests to the repository, most of which were successfully merged."
+      ],
+      "achievements": [
+        "Created reusable components that align with the company's design standards.",
+        "Enhanced dashboard usability and streamlined UI design processes."
       ],
       "skills": [
+        "NextJS",
+        "MaterialUI",
+        "Recoil",
+        "NestJS",
+        "TypeORM",
+        "Figma",
+        "Jira"
+      ]
+    },
+    {
+      "name": "Centre for Development of Advanced Computing (C-DAC)",
+      "position": "Full Stack Developer Intern",
+      "location_type": "Hybrid",
+      "location": "Hyderabad, India",
+      "url": "https://www.cdac.in/",
+      "startDate": "2024-05-01",
+      "endDate": "2024-08-01",
+      "summary": "Developed a blockchain-backed certificate generation system, automating and securing the certification process.",
+      "highlights": [
+        "Reduced certificate generation time tenfold using a dynamic generator built with NodeJS and MongoDB.",
+        "Deployed a blockchain solution using Hyperledger Fabric for secure certificate hash storage."
+      ],
+      "responsibilities": [
+        "Designed and implemented a dynamic certificate generator to automate processes.",
+        "Built a custom JavaScript smart contract for blockchain integration.",
+        "Streamlined the certification workflow, saving 80% on processing time."
+      ],
+      "achievements": [
+        "Reduced verification time by 75% through secure blockchain-based certificate storage.",
+        "Automated the certification process, significantly reducing administrative workload."
+      ],
+      "skills": [
+        "NodeJS",
+        "ExpressJS",
+        "MongoDB",
+        "Mongoose",
+        "TypeORM",
+        "Hyperledger Fabric",
+        "REST API",
+        "Docker"
+      ]
+    },
+    {
+      "name": "Aptiway Technologies Pvt. Ltd.",
+      "position": "Front-End Developer Intern",
+      "location_type": "Hybrid",
+      "location": "Hyderabad, India",
+      "url": "https://aptiway.com/#home",
+      "startDate": "2023-05-01",
+      "endDate": "2023-07-01",
+      "summary": "Delivered front-end solutions for 20 projects, enhancing user engagement through responsive designs.",
+      "highlights": [
+        "Led 20 projects using ReactJS, Bootstrap, and TailwindCSS, ensuring cross-browser compatibility.",
+        "Designed low- and high-fidelity wireframes in Figma, boosting mobile app user engagement by 20%."
+      ],
+      "responsibilities": [
+        "Developed responsive front-end interfaces using modern frameworks.",
+        "Created visually appealing designs in Figma and Canva.",
+        "Streamlined workflows by utilizing Git for version control."
+      ],
+      "achievements": [
+        "Enhanced team productivity through effective use of Git version control.",
+        "Successfully improved UX responsiveness, boosting engagement metrics."
+      ],
+      "skills": [
+        "ReactJS",
+        "MaterialUI",
+        "Bootstrap",
+        "TailwindCSS",
+        "Figma",
+        "Canva",
         "HTML",
-        "CSS"
+        "CSS",
+        "Sass"
       ]
     }
   ],
@@ -119,51 +149,31 @@
   ],
   "education": [
     {
-      "institution": "State University",
-      "url": "https://stateuniversity.edu",
+      "institution": "Sikkim Manipal Institute of Technology",
+      "url": "https://smu.edu.in/smit.html/",
       "area": "Computer Science",
       "studyType": "Bachelor",
-      "startDate": "2018-09-01",
-      "endDate": "2022-05-01",
-      "score": "3.8",
+      "startDate": "2021-08-01",
+      "endDate": "2025-08-01",
+      "score": "8.71",
       "courses": [
         "CS101 - Introduction to Computer Science",
         "CS102 - Data Structures"
-      ]
-    },
-    {
-      "institution": "Tech Institute",
-      "url": "https://techinstitute.edu",
-      "area": "Software Engineering",
-      "studyType": "Master",
-      "startDate": "2020-09-01",
-      "endDate": "2022-12-01",
-      "score": "3.9",
-      "courses": [
-        "SE201 - Advanced Software Development",
-        "SE202 - Software Architecture and Design"
-      ]
-    },
-    {
-      "institution": "City College",
-      "url": "https://citycollege.edu",
-      "area": "Information Technology",
-      "studyType": "Associate Degree",
-      "startDate": "2017-01-01",
-      "endDate": "2019-12-01",
-      "score": "3.7",
-      "courses": [
-        "IT101 - Networking Fundamentals",
-        "IT102 - Database Management Systems"
       ]
     }
   ],
   "certificates": [
     {
-      "name": "Full Stack Web Development",
-      "date": "2023-05-01",
-      "issuer": "Online University",
-      "url": "https://onlineuniversity.com/certificates/fullstack"
+      "name": "JavaScript -The Complete Guide 2024 (Beginner + Advanced)",
+      "date": "2024-02-14",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-a3c4309e-d563-48cc-acfd-abe511d46bfa/"
+    },
+    {
+      "name": "Learn C++ Programming - Beginner to Advance- Deep Dive in C++",
+      "date": "2024-02-14",
+      "issuer": "Udemy",
+      "url": "https://www.udemy.com/certificate/UC-b20b647a-3fbb-4a56-85f6-05e9d0704b72/"
     }
   ],
   "skills": [
@@ -290,6 +300,76 @@
         "JavaScript Library",
         "UI"
       ]
+    }, 
+    {
+      "name": "Docker",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Cloud",
+        "Server"
+      ]
+    },
+    {
+      "name": "AWS EC2",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Cloud",
+        "Server"
+      ]
+    },
+    {
+      "name": "AWS S3",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Backend",
+        "Cloud",
+        "Server"
+      ]
+    },
+    {
+      "name": "MongoDB",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Postgres",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "NestJS",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
+    },
+    {
+      "name": "Recoil",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "JavaScript Library",
+        "UI"
+      ]
     }
   ],
   "languages": [
@@ -298,8 +378,8 @@
       "fluency": "Native speaker"
     },
     {
-      "language": "Spanish",
-      "fluency": "Intermediate"
+      "language": "Hindi",
+      "fluency": "Native speaker"
     }
   ],
   "interests": [
@@ -320,45 +400,45 @@
   "projects": [
     {
       "name": "Personal Portfolio",
-      "isActive": false,
+      "isActive": true,
       "description": "A personal portfolio website to showcase my projects and skills.",
       "highlights": [
         "Built with React and Tailwind CSS",
         "Includes a blog and contact form"
       ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
+      "url": "https://atulshince27.github.io/my-portfolio/",
+      "github": "https://github.com/AtulShince27/my-portfolio"
     },
     {
-      "name": "Weather App",
+      "name": "Todo Web App",
       "isActive": true,
       "description": "A web application that provides weather information for any location.",
       "highlights": [
         "Built with JavaScript and OpenWeatherMap API",
         "Responsive design"
       ],
-      "url": "https://weatherapp.com"
+      "url": "https://todo-web-app-zeta.vercel.app/",
+      "github": "https://github.com/AtulShince27/Todo_Web_App"
     },
     {
-      "name": "Task Manager",
-      "isActive": true,
+      "name": "WhatsApp Chatbot",
+      "isActive": false,
       "description": "A simple task management app to keep track of daily tasks.",
       "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
+        "Built with React, Express and Postgres.",
+        "Dashboard, User authentication and CRUD operations"
       ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
+      "github": "https://github.com/AtulShince27/Mini_Project_2024"
     },
     {
-      "name": "E-commerce Site",
+      "name": "Netflix Clone",
       "isActive": false,
       "description": "An online store built with Next.js and Stripe for payment processing.",
       "highlights": [
         "Product management and shopping cart functionality",
         "Secure payment integration"
       ],
-      "url": "https://ecommerce.com"
+      "github": "https://github.com/AtulShince27/Netflix_Clone"
     }
   ]
 }
