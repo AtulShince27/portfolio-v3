@@ -2,16 +2,11 @@
 import { defineConfig } from "astro/config";
 import tailwind from "@astrojs/tailwind";
 
-import vercel from "@astrojs/vercel/serverless";
-
 // https://astro.build/config
 export default defineConfig({
-  site: 'https://atulshince27.github.io',
-  base: '/portfolio-v3/',
+  site: 'https://AtulShince27.github.io/portfolio-v3/',
   integrations: [tailwind()],
   build: {
     assets: 'assets'
   },
-  output: "server",
-  adapter: vercel()
 });
