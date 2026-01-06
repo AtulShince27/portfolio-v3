@@ -35,13 +35,93 @@
   },
   "work": [
     {
+      "name": "DeepTerrain AI Pvt. Ltd.",
+      "position": "Full Stack Developer",
+      "location_type": "Hybrid",
+      "location": "Hyderabad, India",
+      "url": "https://thedeepterrain.ai/",
+      "startDate": "2025-05-01",
+      "summary": "Owned end-to-end development, design, testing, and delivery of two mission-critical projects: a full-stack military mission control GIS dashboard and a high-performance C++/OpenGL real-time ADAS visualization platform for truck sensor data and vehicle dynamics.",
+      "highlights": [
+        "Architected and delivered a real-time military mission control dashboard using React.js, Node.js, Leaflet.js, and Preact Signals for state management, enabling interactive GIS mapping and mission planning features.",
+        "Engineered a C++ and OpenGL-based real-time visualization application for ADAS project, processing and rendering live sensor data on embedded hardware with smooth 120 FPS performance.",
+        "Implemented low-latency real-time streaming of processed images to the mission control dashboard using WebSocket technology, ensuring seamless updates for operators in high-stakes environments.",
+        "Developed secure encrypted chat messaging system integrated into the mission control application using JWT authentication, enabling confidential communication among multiple users in defense scenarios.",
+        "Achieved real-time synchronization of ADAS core platform logic with visualization layer via C++ UDP socket programming, delivering responsive vehicle dynamics rendering with minimal latency."
+      ],
+      "responsibilities": [
+        "Solely responsible for full lifecycle ownership of two flagship projects: from requirements gathering and UI/UX design (Figma) through development, testing, deployment, and ongoing maintenance.",
+        "Led front-end implementation with React.js, MaterialUI, TailwindCSS, Leaflet.js, and Preact Signals for responsive, interactive GIS and map-based features.",
+        "Handled back-end services with Node.js, Express.js, JWT authentication, MongoDB, and real-time Socket programming for secure, scalable data handling.",
+        "Developed and optimized low-level C++ OpenGL rendering pipeline for embedded systems (NVIDIA Jetson-compatible), including sensor data visualization and vehicle dynamics simulation.",
+        "Managed Docker containerization, Debian packaging, and deployment pipelines to ensure reliable delivery in hybrid/production environments."
+      ],
+      "achievements": [
+        "Achieved consistent 120 FPS real-time visualization in ADAS platform through optimized C++ UDP socket integration and OpenGL rendering techniques.",
+        "Enabled secure, encrypted real-time communication and data streaming for military-grade mission control, supporting multiple concurrent users without compromising performance or security.",
+        "Delivered production-ready end-to-end features for defense and automotive applications, reducing manual visualization efforts and improving operator situational awareness in critical scenarios."
+      ],
+      "skills": [
+        "ReactJS",
+        "MaterialUI",
+        "LeafletJS",
+        "TailwindCSS",
+        "Preact Signals",
+        "Figma",
+        "Node.js",
+        "ExpressJS",
+        "JWT",
+        "MongoDB",
+        "Docker",
+        "OpenGL",
+        "C++",
+        "Debian Packaging",
+        "Socket Programming",
+        "Real Time Video Streaming",
+        "UDP Socket Programming",
+        "WebSockets"
+      ]
+    },
+    {
+      "name": "Aptiway Technologies Pvt. Ltd.",
+      "position": "Full Stack Developer Intern",
+      "location_type": "Hybrid",
+      "location": "Hyderabad, India",
+      "url": "https://aptiway.com/#home",
+      "startDate": "2025-01-01",
+      "endDate": "2025-05-01",
+      "summary": "Delivered a front-end library of reusable components and designed wireframes to enhance user experience across web and mobile applications.",
+      "highlights": [
+        "Led 20 projects using ReactJS, Bootstrap, and TailwindCSS, ensuring cross-browser compatibility.",
+        "Designed low- and high-fidelity wireframes in Figma, boosting mobile app user engagement by 20%."
+      ],
+      "responsibilities": [
+        "Developed responsive front-end interfaces using modern frameworks.",
+        "Created visually appealing designs in Figma and Canva.",
+        "Streamlined workflows by utilizing Git for version control."
+      ],
+      "achievements": [
+        "Enhanced team productivity through delivering reusable UI components with low code requirements.",
+        "Successfully improved UX responsiveness, boosting engagement metrics."
+      ],
+      "skills": [
+        "ReactJS",
+        "MaterialUI",
+        "Bootstrap",
+        "TailwindCSS",
+        "Figma",
+        "HTML",
+        "CSS"
+      ]
+    },
+    {
       "name": "Retrac GmbH",
       "position": "Full Stack Developer Intern",
       "location_type": "Remote",
       "location": "Berlin, Germany",
       "url": "https://www.heyresi.com/",
       "startDate": "2024-07-01",
-      "endDate": null,
+      "endDate": "2024-12-01",
       "summary": "Enhancing the UI of critical dashboard tools and contributing to the development of reusable, scalable components.",
       "highlights": [
         "Transformed the UI of a critical dashboard tool using NextJS and MaterialUI, improving UI consistency by 25%.",
@@ -95,42 +175,7 @@
         "Mongoose",
         "TypeORM",
         "Hyperledger Fabric",
-        "REST API",
         "Docker"
-      ]
-    },
-    {
-      "name": "Aptiway Technologies Pvt. Ltd.",
-      "position": "Front-End Developer Intern",
-      "location_type": "Hybrid",
-      "location": "Hyderabad, India",
-      "url": "https://aptiway.com/#home",
-      "startDate": "2023-05-01",
-      "endDate": "2023-07-01",
-      "summary": "Delivered front-end solutions for 20 projects, enhancing user engagement through responsive designs.",
-      "highlights": [
-        "Led 20 projects using ReactJS, Bootstrap, and TailwindCSS, ensuring cross-browser compatibility.",
-        "Designed low- and high-fidelity wireframes in Figma, boosting mobile app user engagement by 20%."
-      ],
-      "responsibilities": [
-        "Developed responsive front-end interfaces using modern frameworks.",
-        "Created visually appealing designs in Figma and Canva.",
-        "Streamlined workflows by utilizing Git for version control."
-      ],
-      "achievements": [
-        "Enhanced team productivity through effective use of Git version control.",
-        "Successfully improved UX responsiveness, boosting engagement metrics."
-      ],
-      "skills": [
-        "ReactJS",
-        "MaterialUI",
-        "Bootstrap",
-        "TailwindCSS",
-        "Figma",
-        "Canva",
-        "HTML",
-        "CSS",
-        "Sass"
       ]
     }
   ],
@@ -410,17 +455,6 @@
       "github": "https://github.com/AtulShince27/my-portfolio"
     },
     {
-      "name": "Todo Web App",
-      "isActive": true,
-      "description": "A web application that provides weather information for any location.",
-      "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
-        "Responsive design"
-      ],
-      "url": "https://todo-web-app-zeta.vercel.app/",
-      "github": "https://github.com/AtulShince27/Todo_Web_App"
-    },
-    {
       "name": "WhatsApp Chatbot",
       "isActive": false,
       "description": "A simple task management app to keep track of daily tasks.",
@@ -431,14 +465,37 @@
       "github": "https://github.com/AtulShince27/Mini_Project_2024"
     },
     {
-      "name": "Netflix Clone",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
+      "name": "Google Meets Clone",
+      "isActive": true,
+      "description": "A Google Meets Clone built using Next.js and WebRTC for real-time video communication.",
       "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
+        "Real-time video and audio communication",
+        "Screen sharing and chat functionality"
       ],
-      "github": "https://github.com/AtulShince27/Netflix_Clone"
+      "url": "https://google-meets-clone-ll7s.vercel.app",
+      "github": "https://github.com/AtulShince27/google-meets-clone"
+    },
+    {
+      "name": "Chat Application",
+      "isActive": true,
+      "description": "A Chatting Application built using Next.js, Socket.io and Razorpay for payment processing.",
+      "highlights": [
+        "Real-time text based communication",
+        "Image and file sharing functionality"
+      ],
+      "url": "https://chat-app-demo-ten.vercel.app/",
+      "github": "https://github.com/AtulShince27/Chat_App_Demo"
+    },
+    {
+      "name": "Twitch Live Stream Clone",
+      "isActive": true,
+      "description": "A Twitch Live Stream Clone built using Next.js and Livekit.io for content management.",
+      "highlights": [
+        "Live video streaming",
+        "User authentication and streaming functionality"
+      ],
+      "url": "https://twitch-clone-tan.vercel.app",
+      "github": "https://github.com/AtulShince27/twitch-clone"
     }
   ]
 }
