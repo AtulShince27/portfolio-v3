@@ -1,7 +1,7 @@
 // @ts-check
 import { defineConfig } from "astro/config";
 import tailwind from "@astrojs/tailwind";
-import vercel from '@astrojs/vercel';
+// import * as vercel from '@astrojs/vercel';
 
 // https://astro.build/config
 export default defineConfig({
@@ -9,5 +9,12 @@ export default defineConfig({
   build: {
     assets: 'assets'
   },
-  adapter: vercel(),
+  // adapter: vercel(),
+  // vite: {
+  //   resolve: {
+  //     alias: {
+  //       '@astrojs/vercel': '@astrojs/vercel/dist/index.js'  // ← force entry point
+  //     }
+  //   }
+  // }
 });
