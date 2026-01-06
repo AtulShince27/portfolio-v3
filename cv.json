@@ -37,8 +37,8 @@
     {
       "name": "DeepTerrain AI Pvt. Ltd.",
       "position": "Full Stack Developer",
-      "location_type": "Hybrid",
-      "location": "Hyderabad, India",
+      "location_type": "In-Office",
+      "location": "Bangalore, India",
       "url": "https://thedeepterrain.ai/",
       "startDate": "2025-05-01",
       "summary": "Owned end-to-end development, design, testing, and delivery of two mission-critical projects: a full-stack military mission control GIS dashboard and a high-performance C++/OpenGL real-time ADAS visualization platform for truck sensor data and vehicle dynamics.",
@@ -83,11 +83,10 @@
       ]
     },
     {
-      "name": "Aptiway Technologies Pvt. Ltd.",
+      "name": "Digital Solutions FZCO",
       "position": "Full Stack Developer Intern",
-      "location_type": "Hybrid",
-      "location": "Hyderabad, India",
-      "url": "https://aptiway.com/#home",
+      "location_type": "Remote",
+      "location": "Dubai, UAE",
       "startDate": "2025-01-01",
       "endDate": "2025-05-01",
       "summary": "Delivered a front-end library of reusable components and designed wireframes to enhance user experience across web and mobile applications.",
